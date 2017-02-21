@@ -6,6 +6,12 @@ In the wake of over a million people signing a petition against a state visit fo
 
 The story was written by **Dan Wainwright** with additional research by **Ioana Dumitrescu**.
 
+In the story Stephen Coleman, professor of political communication at the University of Leeds, said: 
+
+> "If they are only empowering the usual people who vote and participate in other ways, they will exacerbate the gap between the political efficacy of the already active and the limited influence of the least confident."
+
+However, we found **no correlation** between election participation and petition participation, suggesting that those who signed petitions may not be the same people who vote.
+
 ## Data
 
 Data for each petition can be downloaded from [the official UK petitions website](https://petition.parliament.uk/) - a '*Get petition data (json format)* link is at the bottom of each petition page. Alternatively, you can just add `.json` to the end of any petition URL, e.g. the JSON link for the EU referendum petition at `https://petition.parliament.uk/petitions/131215` is `https://petition.parliament.uk/petitions/131215.json`
