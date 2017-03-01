@@ -16,6 +16,8 @@ However, we found **no correlation** between election participation and petition
 
 Data for each petition can be downloaded from [the official UK petitions website](https://petition.parliament.uk/) - a '*Get petition data (json format)* link is at the bottom of each petition page. Alternatively, you can just add `.json` to the end of any petition URL, e.g. the JSON link for the EU referendum petition at `https://petition.parliament.uk/petitions/131215` is `https://petition.parliament.uk/petitions/131215.json`
 
+* [Top 10 petitions: signatures by constituency with MP, party and population (CSV)](https://github.com/BBC-Data-Unit/petitions/blob/master/Top%2010%20referendums%20at%20Feb17.csv)
+
 ## Visualisation and interactives
 
 * Interactive search: How many people sign Parliament petitions where you live?
